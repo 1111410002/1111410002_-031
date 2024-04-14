@@ -1,0 +1,7 @@
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\bin\Debug\1111410002_劉昀叡031.exe.config
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\bin\Debug\1111410002_劉昀叡031.exe
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\bin\Debug\1111410002_劉昀叡031.pdb
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\obj\Debug\1111410002_劉昀叡031.csproj.AssemblyReference.cache
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\obj\Debug\1111410002_劉昀叡031.csproj.CoreCompileInputs.cache
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\obj\Debug\1111410002_劉昀叡031.exe
+C:\Users\yolot\source\repos\1111410002_劉昀叡031\1111410002_劉昀叡031\obj\Debug\1111410002_劉昀叡031.pdb
